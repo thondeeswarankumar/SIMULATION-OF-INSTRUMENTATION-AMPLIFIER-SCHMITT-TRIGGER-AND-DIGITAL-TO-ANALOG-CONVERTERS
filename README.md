@@ -18,7 +18,7 @@ LT-Spice
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
 
 ## INSTRUMENTATION AMPLIFIER CIRCUIT DIAGRAM 
-
+11
 ## OUTPUT: INSTRUMENTATION AMPLIFIER
 
 ## SCHMITT TRIGGER CIRCUIT DIAGRAM
